@@ -1,4 +1,16 @@
-# ProjetoGerenciadorTarefas
+# Projeto Gerenciador Tarefas
+
+- Directive do Angular
+- Directive personalizada
+- Module / Componente / Service
+- Routing (ActivatedRoute; Router; Routes; Router Module; Router Link; Redirect To; Path Match; Path)
+- Model
+- Shared
+- Local Storage
+- Input Propertie
+- Class Biding
+- Two Way Data Biding
+- View Child
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
